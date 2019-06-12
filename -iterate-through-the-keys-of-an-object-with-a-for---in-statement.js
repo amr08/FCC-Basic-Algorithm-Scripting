@@ -23,7 +23,6 @@ let onlineUsers = 0;
 
 for(let user in obj) {
   if(obj[user].online) {
-    console.log(user);
     onlineUsers++;
   }
 }     
