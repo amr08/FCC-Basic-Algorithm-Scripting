@@ -1,4 +1,3 @@
-
 function mutation(arr) {
 
   const firstWord = arr[0].toLowerCase().split("");

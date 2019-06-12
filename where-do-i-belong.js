@@ -1,4 +1,3 @@
-
 function getIndexToIns(arr, num) {
   const newArr = arr.concat(num);
   

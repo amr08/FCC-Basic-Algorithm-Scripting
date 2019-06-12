@@ -1,4 +1,3 @@
-
 function frankenSplice(arr1, arr2, n) {
   const newArr = arr2.slice();
   const firstArr = arr1.slice();

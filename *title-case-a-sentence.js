@@ -1,4 +1,3 @@
-
 function titleCase(str) { 
   const words = str.toLowerCase().split(" "); 
 
